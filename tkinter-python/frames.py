@@ -3,7 +3,6 @@ from PIL import ImageTk,Image
 
 root = Tk()
 root.title('Image Frames')
-root.iconbitmap('images\gram.ico')
 
 #frame = LabelFrame(root, text="This the frame", padx=5, pady=5)
 frame = LabelFrame(root, padx=5, pady=5)
