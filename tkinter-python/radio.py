@@ -3,7 +3,6 @@ from PIL import ImageTk,Image
 
 root = Tk()
 root.title('Radio Buttons')
-root.iconbitmap('images\cra.ico')
 
 #r = IntVar()
 #r.set("0")
