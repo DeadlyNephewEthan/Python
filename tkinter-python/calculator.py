@@ -2,7 +2,6 @@ from tkinter import *
 
 root = Tk()
 root.title("Ethan's Calculator")
-root.iconbitmap('images\calculator.ico')
 
 e = Entry(root, borderwidth=5, width=41)
 e.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
